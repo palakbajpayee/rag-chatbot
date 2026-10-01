@@ -1,0 +1,76 @@
+[
+  {
+    "order_id": "ORD-10041",
+    "email": "priya.sharma@example.com",
+    "placed_at": "2026-09-22",
+    "status": "Delivered",
+    "delivered_at": "2026-09-26",
+    "shipping_method": "Standard",
+    "courier": "BlueDart",
+    "tracking_number": "BD4471920033",
+    "items": [
+      {"sku": "HP-200", "name": "AeroSound Wireless Headphones", "qty": 1, "price": 129.00}
+    ],
+    "total": 129.00,
+    "payment_method": "Visa ending 4421"
+  },
+  {
+    "order_id": "ORD-10042",
+    "email": "john.doe@example.com",
+    "placed_at": "2026-09-28",
+    "status": "Shipped",
+    "estimated_delivery": "2026-10-03",
+    "shipping_method": "Express",
+    "courier": "DHL",
+    "tracking_number": "DHL9938271650",
+    "items": [
+      {"sku": "SW-310", "name": "PulseFit Smartwatch", "qty": 1, "price": 199.00},
+      {"sku": "CB-USB", "name": "USB-C Charging Cable 2m", "qty": 2, "price": 12.50}
+    ],
+    "total": 233.99,
+    "payment_method": "PayPal"
+  },
+  {
+    "order_id": "ORD-10043",
+    "email": "maria.garcia@example.com",
+    "placed_at": "2026-09-30",
+    "status": "Processing",
+    "estimated_delivery": "2026-10-07",
+    "shipping_method": "Standard",
+    "courier": null,
+    "tracking_number": null,
+    "items": [
+      {"sku": "SH-RUN9", "name": "Stride Running Shoes (Size 8)", "qty": 1, "price": 89.99}
+    ],
+    "total": 89.99,
+    "payment_method": "Mastercard ending 1180"
+  },
+  {
+    "order_id": "ORD-10044",
+    "email": "alex.chen@example.com",
+    "placed_at": "2026-09-15",
+    "status": "Cancelled",
+    "cancelled_at": "2026-09-15",
+    "refund_status": "Refunded on 2026-09-16 to Amex ending 3007",
+    "items": [
+      {"sku": "CM-ESP", "name": "BrewMaster Espresso Machine", "qty": 1, "price": 349.00}
+    ],
+    "total": 349.00,
+    "payment_method": "Amex ending 3007"
+  },
+  {
+    "order_id": "ORD-10045",
+    "email": "john.doe@example.com",
+    "placed_at": "2026-09-10",
+    "status": "Delivered",
+    "delivered_at": "2026-09-14",
+    "shipping_method": "Standard",
+    "courier": "FedEx",
+    "tracking_number": "FX7720018845",
+    "items": [
+      {"sku": "BP-TRV", "name": "Nomad Travel Backpack 30L", "qty": 1, "price": 74.00}
+    ],
+    "total": 74.00,
+    "payment_method": "Klarna"
+  }
+]

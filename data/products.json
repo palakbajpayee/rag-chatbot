@@ -1,0 +1,10 @@
+[
+  {"sku": "HP-200", "name": "AeroSound Wireless Headphones", "category": "electronics audio", "price": 129.00, "in_stock": true, "stock_qty": 42, "warranty": "1 year manufacturer"},
+  {"sku": "SW-310", "name": "PulseFit Smartwatch", "category": "electronics wearables", "price": 199.00, "in_stock": true, "stock_qty": 15, "warranty": "1 year manufacturer"},
+  {"sku": "CB-USB", "name": "USB-C Charging Cable 2m", "category": "electronics accessories", "price": 12.50, "in_stock": true, "stock_qty": 300, "warranty": "6 months"},
+  {"sku": "SH-RUN9", "name": "Stride Running Shoes", "category": "footwear sports", "price": 89.99, "in_stock": true, "stock_qty": 60, "sizes": ["6", "7", "8", "9", "10", "11"], "warranty": null},
+  {"sku": "CM-ESP", "name": "BrewMaster Espresso Machine", "category": "home kitchen appliances", "price": 349.00, "in_stock": false, "stock_qty": 0, "restock_date": "2026-10-20", "warranty": "2 years manufacturer"},
+  {"sku": "BP-TRV", "name": "Nomad Travel Backpack 30L", "category": "bags travel", "price": 74.00, "in_stock": true, "stock_qty": 28, "warranty": "Lifetime against manufacturing defects"},
+  {"sku": "LT-14P", "name": "Vertex 14 Pro Laptop", "category": "electronics computers", "price": 1099.00, "in_stock": true, "stock_qty": 7, "warranty": "1 year manufacturer"},
+  {"sku": "YM-ECO", "name": "EcoGrip Yoga Mat", "category": "sports fitness", "price": 34.99, "in_stock": true, "stock_qty": 85, "warranty": null}
+]

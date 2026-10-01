@@ -1,0 +1,2 @@
+anthropic>=1.11.0
+streamlit>=1.38  # optional: only needed for the web UI (app.py)
